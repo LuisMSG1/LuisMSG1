@@ -7,7 +7,8 @@
 
 <p align="center">
   
-    </a>
+    
+    
 </p>
 
 <p align="center" style="margin: -20px 0 30px">
@@ -25,7 +26,7 @@
 I'm a Full-Stack developer who likes to work with JavaScript/Typescript (Preact, Next.js, TensorFlow.js, Node, Deno) Rust, Python among others. 
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMSG1&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
    <br />
   <br />
@@ -39,10 +40,7 @@ I'm a Full-Stack developer who likes to work with JavaScript/Typescript (Preact,
 
 * Technology and software
 * Science 
-* Machine learning ([my articles about it](https://aralroca.com/blog?q=machine-learning))
-* Books ([goodreads](https://www.goodreads.com/user/show/32447157-aral-roca-gomez))
-* Parkour ([instagram](https://www.instagram.com/aralroca/), [youtube](http://youtube.com/aralroca))
-* Nutrition
-* Nature
+* DataBase
+* Books 
 
 <br />
